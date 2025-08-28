@@ -79,11 +79,12 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 git clone https://github.com/DiaHere/Food-and-Beverage-across-all-US-states-Analysis.git
 cd Food-and-Beverage-across-all-US-states-Analysis
 pip install -r requirements.txt
+```
 
 ### 2. Run the Notebook
 jupyter notebook notebook_fixed.ipynb
 
-## Results Snapshot
+### 1. Clone repo & install deps
 
 - COVID crushed average sales across all states, with sharp negative spikes in Mar–May 2020.
 
