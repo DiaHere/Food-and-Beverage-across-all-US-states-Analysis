@@ -5,7 +5,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ├── COVID-19 Alcohol.csv # State-level alcohol policy data
 ├── COVID-19 Face Masks.csv # Mask mandate and enforcement data
 ├── COVID-19 Stay at Home.csv # Stay-at-home order data
@@ -17,7 +17,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## 🔑 Key Questions
+## Key Questions
 1. **COVID-19 Impact**  
    - How did average food & beverage sales shift **pre-COVID → COVID → post-COVID**?  
    - Which states were the **biggest winners and losers** in 2020?
@@ -35,7 +35,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## 📊 Methodology
+## Methodology
 1. **Data Wrangling & Cleaning**
    - Unified disparate sources (policy CSVs + F&B sales).
    - Safe renaming of `MSRSxx` → `WA`, `CA`, etc.
@@ -65,7 +65,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## 📈 Example Visuals
+## Example Visuals
 
 | Period Comparison | Forecast (WA) |
 |-------------------|---------------|
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ### 2. Run the Notebook
 jupyter notebook notebook_fixed.ipynb
 
-### 1. Clone repo & install deps
+### Result Snapshot
 
 - COVID crushed average sales across all states, with sharp negative spikes in Mar–May 2020.
 
