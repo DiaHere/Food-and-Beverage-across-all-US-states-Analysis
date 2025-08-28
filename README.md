@@ -73,7 +73,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ### 1. Clone repo & install deps
 ```bash
 git clone https://github.com/DiaHere/Food-and-Beverage-across-all-US-states-Analysis.git
@@ -83,6 +83,8 @@ pip install -r requirements.txt
 
 ### 2. Run the Notebook
 jupyter notebook notebook_fixed.ipynb
+
+---
 
 ### Result Snapshot
 
