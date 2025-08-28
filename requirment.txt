@@ -1,0 +1,15 @@
+# Core data wrangling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics & forecasting
+statsmodels
+scikit-learn
+scipy
+
+# Jupyter (if running notebook)
+jupyter
