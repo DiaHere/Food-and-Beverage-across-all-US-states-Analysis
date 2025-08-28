@@ -86,7 +86,7 @@ jupyter notebook notebook_fixed.ipynb
 
 ---
 
-### Result Snapshot
+## Result Snapshot
 
 - COVID crushed average sales across all states, with sharp negative spikes in Mar–May 2020.
 
