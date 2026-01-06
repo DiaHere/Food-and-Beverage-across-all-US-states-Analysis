@@ -5,18 +5,6 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ---
 
-## Repository Structure
-├── COVID-19 Alcohol.csv # State-level alcohol policy data
-├── COVID-19 Face Masks.csv # Mask mandate and enforcement data
-├── COVID-19 Stay at Home.csv # Stay-at-home order data
-├── Food-&-Beverage-stores.csv # Monthly percent-change in F&B sales
-├── notebook_fixed.ipynb # Main analysis notebook (cleaned + fixed)
-├── notebook.py # Script version of the analysis pipeline
-├── README.md # You’re here
-└── outputs/ # Generated CSVs, metrics, correlations
-
----
-
 ## Key Questions
 1. **COVID-19 Impact**  
    - How did average food & beverage sales shift **pre-COVID → COVID → post-COVID**?  
@@ -24,6 +12,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 2. **Policy Correlations**  
    - Did **alcohol store openings**, **mask enforcement**, or **stay-at-home duration** correlate with state-level sales impact?
+   - If there is correlation, how much impact did each had on the sales? 
 
 3. **Seasonal & Regional Patterns**  
    - Do states or regions share **seasonal consumption profiles**?  
