@@ -7,7 +7,7 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
 
 ## Key Questions
 1. **COVID-19 Impact**  
-   - How did average food & beverage sales shift **pre-COVID → COVID → post-COVID**?  
+   - How did average food & beverage sales shift **pre-COVID -> COVID -> post-COVID**?  
    - Which states were the **biggest winners and losers** in 2020?
 
 2. **Policy Correlations**  
@@ -15,7 +15,8 @@ It blends **data wrangling, exploratory analysis, clustering, and forecasting** 
    - If there is correlation, how much impact did each had on the sales? 
 
 3. **Seasonal & Regional Patterns**  
-   - Do states or regions share **seasonal consumption profiles**?  
+   - Do states or regions share **seasonal consumption profiles**?
+   - Which states or regions **seasonal comsumption pattern did not recorvery from COVID**?
    - How do clusters differ geographically?
 
 4. **Forecasting**  
