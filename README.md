@@ -135,9 +135,12 @@ Most states cluster together despite very different sales outcomes, explaining w
 
 ![Seasonal Clusters](Visual_outputs/3_Seasonal_Profiles.png)
 
-States do share similar seasonal consumption patterns, but these clusters are **geographically mixed**.
+Seasonal consumption is driven by shared economic or consumer trends rather than region.
+* Cluster 0: Includes CA, NY, PA (West/Northeast mix).
+* Cluster 1: Includes AL, MI, NC (South/Midwest mix).
+* Cluster 2: Includes FL, TX, WA (South/West mix).
 
-No single region dominates a seasonal profile, suggesting that **economic structure and consumer behavior** matter more than geography.
+No single region dominates a seasonal profile, suggesting that **economic and consumer behavior** matter more than geography.
 
 ---
 
@@ -147,21 +150,24 @@ Seven states showed both:
 - Significant shifts in seasonal structure
 - Lower average growth in 2024 compared to 2019
 
-These states are spread across regions, indicating uneven recovery not driven by geography alone, but some driven by less tourism (like Hawaii and Alaska) and others still vague.
-
+These states are spread across regions, indicating uneven recovery not driven by geography alone, but some driven by less tourism (like Hawaii and Alaska) and others by economic and comsumer behaviors.
+* **The 7 states:** AK, AL, HI, DE, NJ, OH, WV.
 ---
 
 ### 7. Washington State: Seasonal Baseline Forecast
 
-![WA 6-Month Forecast](images/wa_forecast.png)
+![WA 6-Month Forecast](Visual_outputs/WA_Retail_Seasonal_Baseline_Forecast.png)
 
 Using stable-year seasonality, Washington is projected to experience **steady positive growth** in the first half of 2025, with stronger performance in spring months.
+
+**2025 Forecast:**
+    * **Jan:** +4.8% | **Feb:** +4.7% | **Mar:** +3.6% | **Apr:** +4.0% | **May:** +4.1% | **Jun:** +3.3%
 
 ---
 
 ### 8. Forecast Uncertainty
 
-![WA Forecast CI](Visual_outputs/WA_Retail_Seasonal_Baseline_Forecast.png)
+![WA Forecast CI](Visual_outputs/WA_Retail_Seasonal_Baseline_Forecast_CI.png)
 
 The confidence interval reflects moderate uncertainty but supports a stable, non-volatile outlook for early 2025.
 
