@@ -1,7 +1,5 @@
----
-title: "COVID-19 Impact on U.S. Food & Beverage Sales"
+# COVID-19 Impact on U.S. Food & Beverage Sales
 author: "Dia Dana"
-output: github_document
 ---
 
 ## About
