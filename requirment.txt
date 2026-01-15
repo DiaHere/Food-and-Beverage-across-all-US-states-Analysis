@@ -10,6 +10,7 @@ seaborn
 statsmodels
 scikit-learn
 scipy
+prophet
 
 # Jupyter (if running notebook)
 jupyter
