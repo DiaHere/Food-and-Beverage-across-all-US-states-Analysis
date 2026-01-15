@@ -85,7 +85,7 @@ Across stable years, **average national sales growth hovers around 4%**, while t
 
 ### 1. COVID-19 Caused a Structural Sales Shock
 
-![Average Sales by Phase](images/covid_sales_phases.png)
+![Average Sales Growth by Phase](Visual_outputs/Avg_Pct_Change_across_COVID_Periods.png)
 
 During stable periods, U.S. food and beverage sales grow at roughly **4% month-to-month**.  
 However, during the COVID **Panic Phase**, growth surged past **10%**, reflecting panic buying, stockpiling, and sudden shifts in consumption behavior.
@@ -96,7 +96,7 @@ Sales moderated afterward but did **not fully revert** to pre-COVID norms during
 
 ### 2. State-Level Winners and Losers
 
-![Top vs Bottom States](images/top_bottom_states_heatmap.png)
+![Top vs Bottom States During Covid](Visual_outputs/Top&Bottom_States_during_COVID.png)
 
 While most states experienced elevated sales growth during COVID, the magnitude varied:
 
@@ -124,7 +124,7 @@ Policy differences explain **very little** of the variation in sales outcomes ac
 
 ### 4. Policy Clusters Explain Weak Correlations
 
-![Policy PCA Clusters](images/policy_pca_clusters.png)
+![Policy PCA Clusters](Visual_outputs/COVID_Policies_&_Sales_Growth.png)
 
 States grouped into distinct **policy styles**, rather than a single strict–lenient spectrum.  
 Most states cluster together despite very different sales outcomes, explaining why neither linear nor non-linear correlations were strong.
@@ -133,7 +133,7 @@ Most states cluster together despite very different sales outcomes, explaining w
 
 ### 5. Seasonal Consumption Patterns Are Not Regional
 
-![Seasonal Clusters](images/seasonal_clusters.png)
+![Seasonal Clusters](Visual_outputs/3_Seasonal_Profiles.png)
 
 States do share similar seasonal consumption patterns, but these clusters are **geographically mixed**.
 
@@ -147,7 +147,7 @@ Seven states showed both:
 - Significant shifts in seasonal structure
 - Lower average growth in 2024 compared to 2019
 
-These states are spread across regions, indicating uneven recovery not driven by geography alone.
+These states are spread across regions, indicating uneven recovery not driven by geography alone, but some driven by less tourism (like Hawaii and Alaska) and others still vague.
 
 ---
 
@@ -161,7 +161,7 @@ Using stable-year seasonality, Washington is projected to experience **steady po
 
 ### 8. Forecast Uncertainty
 
-![WA Forecast CI](images/wa_forecast_ci.png)
+![WA Forecast CI](Visual_outputs/WA_Retail_Seasonal_Baseline_Forecast.png)
 
 The confidence interval reflects moderate uncertainty but supports a stable, non-volatile outlook for early 2025.
 
@@ -169,7 +169,7 @@ The confidence interval reflects moderate uncertainty but supports a stable, non
 
 ### 9. Model Evaluation & Selection
 
-![Prophet Forecast](images/prophet_forecast.png)
+![Prophet Forecast](Visual_outputs/WA_Retail_Prophet_Model_Forecast_evaluation.png)
 
 | Model | Mean Absolute Error |
 |-----|---------------------|
