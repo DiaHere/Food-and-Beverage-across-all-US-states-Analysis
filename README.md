@@ -1,6 +1,5 @@
 # COVID-19 Impact on U.S. Food & Beverage Sales
-author: "Dia Dana"
----
+author: Dia Dana
 
 ## About
 
