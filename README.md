@@ -55,8 +55,8 @@ Across stable years, **average national sales growth hovers around 4%**, while t
 
 ### COVID Sales Impact Analysis
 
-- Averaged monthly sales growth nationally and by state for each COVID phase
-- Compared panic-period growth to stable-year baseline (~4%)
+- Sales surged sharply during the Panic Phase, exceeding 10% growth compared to the stable years where average sales growth ~4%, driven by panic buying and stockpiling.
+- While sales moderated afterward fast, the Adjustment Phase remained slightly elevated, suggesting consumer behavior did not fully revert to pre-COVID norms.
 
 ---
 
